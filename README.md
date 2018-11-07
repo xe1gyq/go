@@ -1,6 +1,6 @@
 # Go Training
 
-Thanks Jacob Walker! Thanks Ardan Labs!
+Thanks [Jacob Walker](https://twitter.com/jcbwlkr)! Thanks Ardan Labs!
 
 Wednesday
 
