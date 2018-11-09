@@ -37,3 +37,8 @@ Friday
   - gofmt
   - goimports
   - golint
+  - govet
+  - gometalinter
+  - https://golang.org/
+  - https://github.com/golang/go/wiki
+  - https://github.com/golang/go/wiki#the-go-community
