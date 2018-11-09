@@ -24,3 +24,13 @@ Thursday
 - Exporting and Packaging
 - Story Telling
 - More Exercises
+
+Friday
+
+- Concurrency
+  - Goroutines
+  - Data Races
+  - Channels
+- Testing, Benchmarking & Profiling
+- Error Handling
+- Tools & Resources
