@@ -34,3 +34,6 @@ Friday
 - Testing, Benchmarking & Profiling
 - Error Handling
 - Tools & Resources
+  - gofmt
+  - goimports
+  - golint
